@@ -7,4 +7,4 @@ bot = commands.Bot(command_prefix = "!", description = "Bot de Titouan")
 async def on_ready():
 	print("Ready !")
 
-bot.run("NzA3Njc4MjI1MDA1OTM2NjUy.XraX4A.G2e7l9ZuZTePPZ8PsV59E-rAjVo")
+bot.run("le token de votre bot")
